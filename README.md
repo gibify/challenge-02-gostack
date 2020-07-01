@@ -7,7 +7,6 @@
  * [ExpressJS](https://expressjs.com/)
  * [Nodemon](https://nodemon.io/)
  * [Yarn](https://yarnpkg.com/)
- * [Uuidv4](https://www.npmjs.com/package/uuidv4)
  
 ## SOBRE O DESAFIO / ABOUT THIS CHALLENGE:
 Este desafio foi proposto pelo [Bootcamp GoStack](https://rocketseat.com.br/gostack).

@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="" 600>
+<img src="https://github.com/gibifyOfficial/GOSTACK-BOOTCAMP-CHALLENGES/blob/master/Front-end-ReactJS/public/assets/back-end.png" 600>
 </h1>
 
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:
@@ -15,7 +15,7 @@ Essa é uma aplicação para armazenar repositórios do seu portfólio, que irá
 Criar um CRUD(Post, Get, Update e Delete). Também criar um rota para receber os likes, que é escolhido pelo Id e será incrementado no repostirório a cada like.
 
 <h1 align="center">
-<img src="" 600>
+<img src="https://github.com/gibifyOfficial/GOSTACK-BOOTCAMP-CHALLENGES/blob/master/Front-end-ReactJS/public/assets/front-end.png" 600>
 </h1>
 
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:

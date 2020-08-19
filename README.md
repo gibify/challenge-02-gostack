@@ -9,6 +9,8 @@
  * [Nodemon](https://nodemon.io/)
  * [Yarn](https://yarnpkg.com/)
  
+ Acesse [Package.json](https://github.com/gibify/Back-end-NodeJS/blob/master/Back-end-NodeJS/package.json)
+ 
 ## SOBRE O DESAFIO / ABOUT THIS CHALLENGE:
 Este desafio foi proposto pelo [Bootcamp GoStack](https://rocketseat.com.br/gostack).
 Essa é uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".

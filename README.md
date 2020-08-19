@@ -4,6 +4,7 @@
 
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:
  * [NodeJS](https://nodejs.org/en/docs/)
+ * [TypeScript](https://www.typescriptlang.org/)
  * [ExpressJS](https://expressjs.com/)
  * [Nodemon](https://nodemon.io/)
  * [Yarn](https://yarnpkg.com/)
@@ -16,6 +17,7 @@ Criar um CRUD(Post, Get, Update e Delete). Também criar um rota para receber os
 <h1 align="center">
  <img src="https://github.com/gibify/Back-end-NodeJS/blob/master/Back-end-NodeJS/public/assets/Screenshot%20(6).png" />
 </h1>
+
 ## Testes:
 <h1 align="center">
 <img src="https://github.com/gibify/Back-end-NodeJS/blob/master/Back-end-NodeJS/public/assets/Screenshot%20(2).png" />
